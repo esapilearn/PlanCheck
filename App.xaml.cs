@@ -14,7 +14,7 @@ using System.Windows.Controls;
 
 namespace PlanCheck
 {
-    /// <summary>
+    /// <summary> test
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App
